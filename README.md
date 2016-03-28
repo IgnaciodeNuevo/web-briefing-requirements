@@ -28,6 +28,10 @@ This material has been developed to assist professionals in the service and plan
 
 #### 1.2 Other Services we Offer
 
++ [ ] Creativity
++ [ ] Branding
++ [ ] Illustration
++ [ ] Lettering
 + [ ] Community management
 + [ ] Implementation of payment gateways
 + [ ] Market and Brand analysis
@@ -36,12 +40,7 @@ This material has been developed to assist professionals in the service and plan
 + [ ] Web audits: CSS & HTML Reviews, Performance Optimisation...
 + [ ] Web maintenance
 + [ ] Web positioning: SEO & SEM
-+ [ ] Workshops (CSS, Sass...)
-
-+ [ ] Creativity
-+ [ ] Branding
-+ [ ] Illustration
-+ [ ] Lettering
++ [ ] Workshops
 
 ### 2. Our Development Process
 
